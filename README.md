@@ -52,7 +52,13 @@
 
 删除分支：```$ git branch -d <name>```
 
+<<<<<<< HEAD
 add issue-100 branch
 储藏工作区：```$ git stash```
 
 test stash
+=======
+储藏工作区：```$ git stash```
+
+this is dev.
+>>>>>>> dev
