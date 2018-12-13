@@ -51,3 +51,5 @@
 合并某分支到当前分支：```$ git merge <name>```
 
 删除分支：```$ git branch -d <name>```
+
+储藏工作区：```$ git stash```
