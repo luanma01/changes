@@ -53,3 +53,6 @@
 删除分支：```$ git branch -d <name>```
 
 add issue-100 branch
+储藏工作区：```$ git stash```
+
+test stash
